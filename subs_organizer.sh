@@ -20,5 +20,3 @@ n) exit ;;
 	exit 1
 	;;
 esac
-
-main "$@"
