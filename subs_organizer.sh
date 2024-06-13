@@ -10,13 +10,8 @@ python3 ./script.py
 
 echo --------------------
 
-read -p "Do you want to delete the script.py file? (y/n) " yn
+echo "Deleting the script.py file..."
 
-case $yn in
-y) rm ./script.py ;;
-n) exit ;;
-*)
-	echo invalid response...
-	exit 1
-	;;
-esac
+rm ./script.py
+
+echo "Thanks for using smyk07/subs-organizer"
