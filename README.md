@@ -3,7 +3,7 @@
 ## Usage 
 
 ```
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/smyk07/subs-organizer/master/script.py)"
+python3 -c "$(curl -fsSL https://raw.githubusercontent.com/smyk07/subs-organizer/master/script.py)"
 ```
 
 ## Why? 
