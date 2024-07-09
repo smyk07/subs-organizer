@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 # Python Subtitle Organizer
 # Places subtitle files found in the "Subs" or "Subtitles" folder for pirated seasons alongside episode's mkv or mp4 files...
 
